@@ -1,4 +1,5 @@
 @import url("hero.css");
+@import url("gallery.css");
 
 *,
 *::before,
@@ -11,4 +12,14 @@
   max-width: 1200;
   margin-inline: auto;
   padding-inline: 24px;
+}
+/* Shared Style */
+.btn-primary {
+  display: inline-block;
+  padding: 14px 28px;
+  background: #4f46e5;
+  color: white;
+  border-radius: 1em;
+  text-decoration: none;
+  font-weight: 500;
 }
