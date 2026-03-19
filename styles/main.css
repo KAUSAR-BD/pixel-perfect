@@ -9,14 +9,14 @@
   padding: 0;
 }
 .container {
-  max-width: 1200;
+  max-width: 75em;
   margin-inline: auto;
-  padding-inline: 24px;
+  padding-inline: 1.5em;
 }
-/* Shared Style */
+
 .btn-primary {
   display: inline-block;
-  padding: 14px 28px;
+  padding: 0.9em 1.75em;
   background: #4f46e5;
   color: white;
   border-radius: 1em;
