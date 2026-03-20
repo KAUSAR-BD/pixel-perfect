@@ -1,5 +1,5 @@
 .testimonials {
-  background: #eaf4f1; /* soft greenish-blue */
+  background: #eaf4f1; 
   padding: 5em 0;
   color: #2c3e3a;
 }
@@ -34,5 +34,5 @@
 
 .testimonial-item span {
   font-size: 0.9rem;
-  color: #4f716c; /* softer green accent */
+  color: #4f716c; 
 }
